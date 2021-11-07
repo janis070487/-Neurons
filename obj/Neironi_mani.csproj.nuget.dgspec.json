@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\janis\\c#\\Neironi_mani\\Neironi dod atbildi\\Neironi_mani.csproj": {}
+    "C:\\Users\\janis\\c#\\Git\\-Neurons\\Neironi_mani.csproj": {}
   },
   "projects": {
-    "C:\\Users\\janis\\c#\\Neironi_mani\\Neironi dod atbildi\\Neironi_mani.csproj": {
+    "C:\\Users\\janis\\c#\\Git\\-Neurons\\Neironi_mani.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\janis\\c#\\Neironi_mani\\Neironi dod atbildi\\Neironi_mani.csproj",
+        "projectUniqueName": "C:\\Users\\janis\\c#\\Git\\-Neurons\\Neironi_mani.csproj",
         "projectName": "Neironi_mani",
-        "projectPath": "C:\\Users\\janis\\c#\\Neironi_mani\\Neironi dod atbildi\\Neironi_mani.csproj",
+        "projectPath": "C:\\Users\\janis\\c#\\Git\\-Neurons\\Neironi_mani.csproj",
         "packagesPath": "C:\\Users\\janis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\janis\\c#\\Neironi_mani\\Neironi dod atbildi\\obj\\",
+        "outputPath": "C:\\Users\\janis\\c#\\Git\\-Neurons\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

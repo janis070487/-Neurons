@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TMRmHC9H7kiaeapvBXP8OtNXpVzQCbJAhq6daaIqrjHaIezXYQlgDZIov9nsQJcPF3K/TxqL2L5d+tGyIdAGvA==",
+  "dgSpecHash": "VYlQDt2s4xIvfcMfV08YpUZLlmnkW4eTsBv3EmIzL/7L9/KK7vPFUL5sLyftBmlypafnZ04Dd1lk8vsg1sIKTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\janis\\c#\\Neironi_mani\\Neironi dod atbildi\\Neironi_mani.csproj",
+  "projectFilePath": "C:\\Users\\janis\\c#\\Git\\-Neurons\\Neironi_mani.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\janis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
   ],
