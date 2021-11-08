@@ -46,3 +46,19 @@ C:\Users\janis\c#\Neironi_mani\Neironi dod atbildi\obj\Debug\net5.0\Neironi_mani
 C:\Users\janis\c#\Neironi_mani\Neironi dod atbildi\obj\Debug\net5.0\ref\Neironi_mani.dll
 C:\Users\janis\c#\Neironi_mani\Neironi dod atbildi\obj\Debug\net5.0\Neironi_mani.pdb
 C:\Users\janis\c#\Neironi_mani\Neironi dod atbildi\obj\Debug\net5.0\Neironi_mani.genruntimeconfig.cache
+C:\Users\janis\c#\Git\-Neurons\bin\Debug\net5.0\Neironi_mani.exe
+C:\Users\janis\c#\Git\-Neurons\bin\Debug\net5.0\Neironi_mani.deps.json
+C:\Users\janis\c#\Git\-Neurons\bin\Debug\net5.0\Neironi_mani.runtimeconfig.json
+C:\Users\janis\c#\Git\-Neurons\bin\Debug\net5.0\Neironi_mani.runtimeconfig.dev.json
+C:\Users\janis\c#\Git\-Neurons\bin\Debug\net5.0\Neironi_mani.dll
+C:\Users\janis\c#\Git\-Neurons\bin\Debug\net5.0\ref\Neironi_mani.dll
+C:\Users\janis\c#\Git\-Neurons\bin\Debug\net5.0\Neironi_mani.pdb
+C:\Users\janis\c#\Git\-Neurons\obj\Debug\net5.0\Neironi_mani.csproj.AssemblyReference.cache
+C:\Users\janis\c#\Git\-Neurons\obj\Debug\net5.0\Neironi_mani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janis\c#\Git\-Neurons\obj\Debug\net5.0\Neironi_mani.AssemblyInfoInputs.cache
+C:\Users\janis\c#\Git\-Neurons\obj\Debug\net5.0\Neironi_mani.AssemblyInfo.cs
+C:\Users\janis\c#\Git\-Neurons\obj\Debug\net5.0\Neironi_mani.csproj.CoreCompileInputs.cache
+C:\Users\janis\c#\Git\-Neurons\obj\Debug\net5.0\Neironi_mani.dll
+C:\Users\janis\c#\Git\-Neurons\obj\Debug\net5.0\ref\Neironi_mani.dll
+C:\Users\janis\c#\Git\-Neurons\obj\Debug\net5.0\Neironi_mani.pdb
+C:\Users\janis\c#\Git\-Neurons\obj\Debug\net5.0\Neironi_mani.genruntimeconfig.cache
