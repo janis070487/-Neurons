@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Math;
 
 namespace Neironi_mani
 {
@@ -95,5 +96,58 @@ namespace Neironi_mani
 			return 1;
 
 		}
+		//----------------------------------------------------------------------------------------
+		private void roO()
+        {
+
+        }
+		public void NcTrain(ref double[] jautajumi, ref double[] atbildes, int paaudzes)
+		{
+			Random rnd = new Random();
+			int grupas = jautajumi.Length / leyerI;
+			
+			for(int i = 0; i < paaudzes; i++) // cikls paaudzes
+            {
+				int value = rnd.Next(0, (grupas - 1));
+				
+				int ar_kuru = value * leyerI;
+				int ar_kuruO = value * leyerO.Length;
+				for (int j = 0; j < grupas; j++) // Iziet grupas
+                {
+					double[] ieejasDati = new double[leyerI];    //Parvietot metodes sakuma
+					double[] izejasdati = new double[leyerO.Length];
+					
+					for(int k = 0; k < leyerI; k++)
+                    {
+						ieejasDati[k] = jautajumi[ar_kuru + k];
+                    }
+					for(int a = 0; a < leyerO.Length; a++)
+                    {
+						izejasdati[a] = atbildes[ar_kuruO + a];
+                    }
+					ar_kuru += leyerI;
+					ar_kuruO += leyerO.Length;
+					if(ar_kuru >= (jautajumi.Length - 1))
+                    {
+						ar_kuru = 0;
+                    }
+					if(ar_kuruO >= (atbildes.Length - 1))
+                    {
+						ar_kuruO = 0;
+                    }
+					//__________________________________________________________________
+					//Seit jābūt apmācībai kas laiž signālu uz prieksu un tad atpakal un tad nosledzas i ēra
+					GetAnswer(ref ieejasDati, ref izejasdati);
+					for(int z = 0; z < leyerO.Length; z++) // Apreiķina ro izejas slānim
+                    {
+						leyerO[z].setRo(izejasdati[z]) ; // ro apreiķināšana konkrētam slānim
+                    }
+
+					//__________________________________________________________________
+
+				}
+
+			}
+        }
 	}
 }

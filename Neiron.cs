@@ -20,6 +20,14 @@ namespace Neironi_mani
 		// un atiecīgās ieejas
 		private double output;
 		// outputs apreiķinas input * activator
+		public double getRo()
+        {
+			return ro;
+        }
+		public void setRo(double value)
+        {
+			ro = (value - output) * ((1 - output) * output);
+        }
 		public Neiron(int cikW)
 		{
 			Random rnd = new Random();
